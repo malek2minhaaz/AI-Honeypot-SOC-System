@@ -8,7 +8,7 @@
 - Attack charts
 - SQL injection detection
 - Brute-force detection
-- AI SOC assistant using Gemini
+- AI SOC assistant using Nvidia
 
 ## Run Project
 
@@ -31,5 +31,5 @@ Password: secure123
 
 ## Important
 
-Add your Gemini API key in:
+Add your Nvidia  API key in:
 ai_chat.py
