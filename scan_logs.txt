@@ -1,0 +1,91 @@
+
+Time: 2026-05-14 08:11:11.298816
+Scan Target: https://google.com
+Status Code: 200
+Server: gws
+Threat Level: MEDIUM
+Security Score: 55
+Headers Found: X-Frame-Options
+Missing Headers: Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, Referrer-Policy
+Admin Pages Found: 1
+Admin URLs: https://google.com/dashboard
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 08:23:10.591915
+Scan Target: https://flask.palletsprojects.com
+Status Code: 200
+Server: cloudflare
+Threat Level: MEDIUM
+Security Score: 70
+Headers Found: X-Content-Type-Options, Referrer-Policy
+Missing Headers: Content-Security-Policy, X-Frame-Options, Strict-Transport-Security
+Admin Pages Found: 0
+Admin URLs: None
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 08:47:46.845295
+Scan Target: https://python.org
+Status Code: 200
+Server: nginx
+Threat Level: HIGH
+Security Score: 60
+Headers Found: X-Frame-Options, Strict-Transport-Security
+Missing Headers: Content-Security-Policy, X-Content-Type-Options, Referrer-Policy
+Admin Pages Found: 2
+Admin URLs: https://python.org/admin, https://python.org/admin/login
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 09:24:30.051938
+Scan Target: https://flask.palletsprojects.com
+Status Code: 200
+Server: cloudflare
+Threat Level: MEDIUM
+Security Score: 70
+Headers Found: X-Content-Type-Options, Referrer-Policy
+Missing Headers: Content-Security-Policy, X-Frame-Options, Strict-Transport-Security
+Admin Pages Found: 0
+Admin URLs: None
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 09:25:09.926662
+Scan Target: https://python.org
+Status Code: 200
+Server: nginx
+Threat Level: HIGH
+Security Score: 60
+Headers Found: X-Frame-Options, Strict-Transport-Security
+Missing Headers: Content-Security-Policy, X-Content-Type-Options, Referrer-Policy
+Admin Pages Found: 2
+Admin URLs: https://python.org/admin, https://python.org/admin/login
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 09:33:01.911790
+Scan Target: https://github.com
+Status Code: 200
+Server: github.com
+Threat Level: HIGH
+Security Score: 65
+Headers Found: Content-Security-Policy, X-Frame-Options, Strict-Transport-Security, X-Content-Type-Options, Referrer-Policy
+Missing Headers: None
+Admin Pages Found: 7
+Admin URLs: https://github.com/administrator, https://github.com/login, https://github.com/wp-admin, https://github.com/dashboard, https://github.com/cpanel, https://github.com/adminpanel, https://github.com/backend
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-14 09:38:25.889325
+Scan Target: https://python.org
+Status Code: 200
+Server: nginx
+Threat Level: HIGH
+Security Score: 60
+Headers Found: X-Frame-Options, Strict-Transport-Security
+Missing Headers: Content-Security-Policy, X-Content-Type-Options, Referrer-Policy
+Admin Pages Found: 2
+Admin URLs: https://python.org/admin, https://python.org/admin/login
+Attack Type: Website Security Scan
+-------------------------

@@ -1,0 +1,167 @@
+
+Time: 2026-05-12 10:57:19.750000
+IP: 127.0.0.1
+Username: minnhaaazz
+Password: test
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-12 13:00:52.864039
+IP: 127.0.0.1
+Username: luffy
+Password: 12345678
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-13 07:53:46.233265
+IP: 127.0.0.1
+Username: minnhaaazz
+Password: 990970
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-13 08:39:13.089493
+IP: 127.0.0.1
+Country: Unknown
+City: Unknown
+ISP: Unknown
+Username: test123
+Password: test12345
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-13 08:48:32.533453
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: attempt01
+Password: attempt02
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-13 08:56:51.291720
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: admin
+Password: admin123
+Threat Level: HIGH
+Attack Type: Brute Force Attempt
+-------------------------
+
+Time: 2026-05-13 10:38:05.184498
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: admin
+Password: root
+Threat Level: HIGH
+Attack Type: Brute Force Attempt
+-------------------------
+
+Time: 2026-05-13 10:38:29.311434
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: root
+Password: root
+Threat Level: HIGH
+Attack Type: Brute Force Attempt
+-------------------------
+
+Time: 2026-05-13 12:54:10.056722
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: admin
+Password: admin
+Threat Level: HIGH
+Attack Type: Brute Force Attempt
+-------------------------
+
+Time: 2026-05-13 19:04:56.537861
+Scan Target: https://google.com
+Status Code: 200
+Server: gws
+Threat Level: MEDIUM
+Security Score: 55
+Admin Pages Found: 1
+Missing Headers: 4
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-13 19:05:23.046797
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: admin
+Password: secure1123
+Threat Level: HIGH
+Attack Type: Brute Force Attempt
+-------------------------
+
+Time: 2026-05-13 19:08:08.642548
+Scan Target: https://google.com
+Status Code: 200
+Server: gws
+Threat Level: MEDIUM
+Security Score: 55
+Admin Pages Found: 1
+Missing Headers: 4
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-13 19:12:03.447935
+Scan Target: https://python.org
+Status Code: 200
+Server: nginx
+Threat Level: HIGH
+Security Score: 60
+Admin Pages Found: 2
+Missing Headers: 3
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-13 19:12:55.157532
+Scan Target: https://flask.palletsprojects.com
+Status Code: 200
+Server: cloudflare
+Threat Level: MEDIUM
+Security Score: 70
+Admin Pages Found: 0
+Missing Headers: 3
+Attack Type: Website Security Scan
+-------------------------
+
+Time: 2026-05-13 20:35:34.336783
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Username: zoro
+Password: enma
+Threat Level: LOW
+Attack Type: Normal Activity
+-------------------------
+
+Time: 2026-05-14 08:01:50.692247
+Scan Target: https://python.org
+Status Code: 200
+Server: nginx
+Threat Level: HIGH
+Security Score: 60
+Admin Pages Found: 2
+Missing Headers: 3
+Attack Type: Website Security Scan
+-------------------------
