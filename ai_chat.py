@@ -2,7 +2,9 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
+    api_key="nvapi-XXXXXXXXXXXXXXXXXXXXXXX"
+
+    #YOU CAN GET API KEY ON NVIDIA WEBSITE 
 )
 
 
